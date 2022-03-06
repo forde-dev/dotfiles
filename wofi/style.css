@@ -1,0 +1,38 @@
+#outer-box {
+	border: 2px solid #d5d8da;
+	border-radius: 4px;
+}
+
+#window {
+	background-color: #1c1e26;
+}
+
+#text {
+	font-family: "Input Sans Narrow";
+}
+
+#text:selected {
+	color: #16161c;
+}
+
+#input {
+	margin: 4px;
+	border: 2px solid #d5d8da;
+	border-radius: 4px;
+	background-color: #1c1e26;
+}
+
+#scroll {
+	margin: 2px 2px 3px 2px;
+}
+
+#entry {
+	padding: 2px 4px;
+	margin: 1px 2px;
+}
+
+#entry:selected {
+	background-color: #d5d8da;
+	border-radius: 4px;
+}
+
