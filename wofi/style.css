@@ -4,22 +4,25 @@
 }
 
 #window {
-	background-color: #1c1e26;
+	background-color: rgba(9, 8, 33, 0.562);
 }
 
 #text {
 	font-family: "Input Sans Narrow";
+	color: #d5d8da;
 }
 
 #text:selected {
-	color: #16161c;
+	color: #d5d8da;
+	background-color: rgba(141,45,126,1);
 }
 
 #input {
 	margin: 4px;
 	border: 2px solid #d5d8da;
 	border-radius: 4px;
-	background-color: #1c1e26;
+	background-color: transparent;
+	color: #d5d8da;
 }
 
 #scroll {
@@ -29,10 +32,12 @@
 #entry {
 	padding: 2px 4px;
 	margin: 1px 2px;
+	background-color: rgba(9, 8, 33, 0.562);
+
 }
 
 #entry:selected {
-	background-color: #d5d8da;
+	background-color: rgba(141,45,126,1);
 	border-radius: 4px;
 }
 
