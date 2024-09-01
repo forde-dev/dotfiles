@@ -1,6 +1,7 @@
 # dotfiles
-dotfiles for my sway config
+dotfiles for my Hyprland config
 
-![image](https://user-images.githubusercontent.com/20425379/235545872-8921c173-e46a-4419-ab50-323237a12511.png)
+![image](https://github.com/user-attachments/assets/4ad3a673-f897-486c-b8e5-419563c8b371)
+
 
 
